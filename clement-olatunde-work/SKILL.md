@@ -29,6 +29,25 @@ Clement Olatunde is a UX/UI designer, motion designer and filmmaker in Akure, Ni
 9. **Photo retouching and image edits:** portrait retouches, Aso-Oke stills, logo and brand sets.
 10. **Other help:** job search, applications, betting-slip drafting, payout and account setup (private; see references/other-help.md).
 
+## Playbooks (open the one that matches the request)
+| If he asks for... | Open |
+|---|---|
+| an ad, promo, motion graphic | references/playbook-ads-and-motion.md |
+| AFONJA, Ogunmola or any Yoruba film work | references/playbook-yoruba-films.md and references/afonja.md |
+| a post, caption, comment reply | references/playbook-linkedin-and-social.md |
+| an app, case study, portfolio card | references/playbook-ux-case-studies.md |
+| YouTube titles, branding, monetisation | references/playbook-youtube-channel.md |
+| tone, approvals, delivery habits | references/playbook-working-with-clement.md |
+| what exists already | references/work-log.md |
+| design and sound rules | references/style-and-rules.md |
+| jobs, betting, money (private) | references/other-help.md |
+
+## Before you finish any task
+1. Does it follow the labels rule (concept, made with AI, created by)?
+2. Did you check the output yourself (watch frames, listen, open the link)?
+3. Did you say plainly what is unchecked or imperfect?
+4. Did you keep secrets and private details out of anything public?
+
 ## How to continue the work
 - Read references/work-log.md for what exists, then check the portfolio and repos before quoting facts.
 - For films: the AFONJA voices, look and script rules are in references/afonja.md.
